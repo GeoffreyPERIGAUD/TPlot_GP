@@ -1,4 +1,4 @@
-void setup() {
+void setup(a) {
   // put your setup code here, to run once:
 
 }
